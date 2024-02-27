@@ -31,7 +31,7 @@ This is a simple command-line tool written in Rust to convert Markdown files to 
 4. Run the converter:
 
     ```bash
-cargo run --release --<your/path/to/.md file>
+    cargo run --release --<your/path/to/.md file>
     ```
 
     Replace `<your/path/to/.md file>` with the path to your Markdown file.
